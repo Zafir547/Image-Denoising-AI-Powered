@@ -16,8 +16,8 @@ Python • TensorFlow • Keras • OpenCV • NumPy • Streamlit
 📊 Pipeline
 Original Image → Noise Injection → U-Net Encoder-Decoder → Denoised Output
 
-![Project Screenshot](images/image-denoised.JPG)
+🎥 In the demo image below, you can see how the model removes noise and reconstructs a clean image.
 
-🎥 In the demo video below, you can see how the model removes noise and reconstructs a clean image.
+![Project Screenshot](images/image-denoised.JPG)
 
 This project helped me explore image restoration, autoencoders, and deep learning-based denoising techniques.
